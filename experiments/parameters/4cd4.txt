@@ -1,0 +1,1 @@
+{"batch_size": 64, "bn": true, "command": "train_rnn.py --hidden_size 16 --learning_rate 0.001 --num_layers 4 --data_tag rc1-rc2-5k --bn 1 --concat 1 --dropout 0.3", "concat": true, "data_tag": "rc1-rc2-5k", "dropout": 0.3, "epochs": 15, "hidden_size": 16, "learning_rate": 0.001, "num_layers": 4, "weight_decay": 0.01}

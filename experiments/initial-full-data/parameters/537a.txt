@@ -1,0 +1,1 @@
+{"batch_size": 16, "bn": true, "command": "--batch_size 16 --bn True --data_tag initial-full-data --dropout 0.0 --epochs 50 --hidden_size 64 --learning_rate 0.003 --mega_epochs 50 --num_layers 2", "data_tag": "initial-full-data", "dropout": 0.0, "epochs": 50, "hidden_size": 64, "learning_rate": 0.003, "mega_epochs": 50, "num_layers": 2}
